@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/davert" target="blank"><img src="https://img.shields.io/twitter/follow/davert?logo=twitter&style=for-the-badge" alt="davert" valign="center" /></a> <br>☝️ <small> yey, follow me on Twitter to learn bits on development and test automation 😜</small></p>
 
-> I'm passionate about development and testing. That's why I created testing frameworks [**Codeception** for PHP](https://codeception.com) and [**CodeceptJS** for NodeJS](https://codecept.io). Both frameworks introduce a simple way on describing tests in BDD manner. That's why writing tests is easy to start and easy to scale for big teams. I **worked full time on open-source** since 2013 polishing my projects. I speak Ukrainian, English, and Russian. Don't hesitate to contact me if you want to learn more! I'm very open person.
+> I'm passionate about development and testing. That's why I created testing frameworks [**Codeception** for PHP](https://codeception.com) and [**CodeceptJS** for NodeJS](https://codecept.io). Both frameworks introduce a simple way on describing tests in BDD manner. That's why writing tests is easy to start and easy to scale for big teams. I **worked full time on open-source** since 2013 polishing my projects. I also worked as tech consultant on test automation and conducted corporate trainings. I speak Ukrainian, English, and Russian. Don't hesitate to contact me if you want to learn more! I'm very open person.
 
 
 - 🔭 I’m currently working on my startup [Testomatio](https://testomat.io) to make **tests visible**. 
