@@ -32,6 +32,7 @@ I presented talks on various conferences in US and Europe
 * php[tek] 2018 - Atlanta, Georgia
 * Longhorn PHP 2018 - Austin, Texas
 * Nordic Testing Days 2018 - Tallinn, Estonia
+* PHP Tour 2018 - Montpellier, France
 * PHP Fwdays, JS Fwdays (various years) - Kyiv, Ukraine
 * ... and more conferences over Europe
 
