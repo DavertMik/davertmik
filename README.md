@@ -13,7 +13,7 @@
 - 📫 How to reach me **davert.ua@gmail.com**
 - 🎤 I speak at conferences and meetups on testing for developers:
 
-### Check out my best talks!
+### 🎙️ Check out my best talks! 
 
 * 📺 [Design Decisions for Perfect JavaScript Testing Framework by Michael Bodnarchuk](https://www.youtube.com/watch?v=Z6JjCmV4UJg) - how to create e2e testing framework
 * 📺 [Michael Bodnarchuk: Constructing a Test Pyramid: Because Your Tests Needs Architecture Too
@@ -33,6 +33,27 @@ I presented talks on various conferences in US and Europe
 * Nordic Testing Days 2018 - Tallinn, Estonia
 * PHP Fwdays, JS Fwdays (various years) - Kyiv, Ukraine
 * ... and more conferences over Europe
+
+### 🤓 I am Developer 
+
+I work as a full stack developer for my company [Testomat.io](https://testomat.io). I ❤️ Rails, EmberJS, NodeJS, PHP. I have experience with Vue, React, Angular, Laravel, and other cool tools. I work on open-source projects which are trusted by small a big companies accross the globe. My favorite languages: JavaScript, Ruby, PHP (sorry, TypeScript, not yet).
+
+### ✅ My Thoughts on Testing
+
+Testing is essential part of product development. The more we can automate and the less effort we can spend on this - the better is a product. If you don't feel like writing end 2 end or unit tests, probably you just picked the wrong tool for a job! Testing should be easy and fun. Before you start, learn about [different testing levels](https://www.youtube.com/watch?v=3BUrcmWQUBQ) and check out the tool that fits the best your current setup. Developers should write tests too, don't give all fun to QAs!
+
+### 🤔 What is Testomat.io?
+
+[Testomat.io](https://testomat.io) is my new big journey. This product helps to **make your tests visible**. Currently, automated tests are shown only to developers or QAs. They run on CI, sometimes they pass, sometimes they fail. But does the team know what are those tests actually about? [Testomat.io](https://testomat.io)  is SaaS platform that can import tests directly from source code and to show them to any person in company: from QAs to business analysts and owners. With Testomat.io you can 
+
+* plan new tests
+* receive run reports
+* work on projects with BDD
+* rerun failed automated tests manually
+* ... and more!
+
+Btw, **[Testomatio is absolutely free]()** for small teams. [Sign up today](https://app.testomat.io)!
+
 
 
 <h3 align="left">Connect with me:</h3>
