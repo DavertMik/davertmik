@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael Bodnarchuk "Davert"</h1>
 <h3 align="center">creator of <b>Codeception</b> and <b>CodeceptJS</b> from 🇺🇦 Kyiv, Ukraine</h3>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/220264/128233479-974e555c-05d3-4bcd-8656-ba08d6fdc43a.jpg"></p>
+<p align="center"><img width="50%" src="https://user-images.githubusercontent.com/220264/128233479-974e555c-05d3-4bcd-8656-ba08d6fdc43a.jpg"></p>
 
-<p align="left"> <a href="https://twitter.com/davert" target="blank"><img src="https://img.shields.io/twitter/follow/davert?logo=twitter&style=for-the-badge" alt="davert" /></a> 👈 yey, follow me on Twitter to learn bits on development and test automation 😜</p>
+<p align="left"> <a href="https://twitter.com/davert" target="blank"><img src="https://img.shields.io/twitter/follow/davert?logo=twitter&style=for-the-badge" alt="davert" valign="center" /></a> <br>☝️ <small> yey, follow me on Twitter to learn bits on development and test automation 😜</small></p>
 
 > I'm passionate about development and testing. That's why I created testing frameworks [Codeception for PHP](https://codeception.com) and [CodeceptJS for NodeJS](https://codecept.io). Both frameworks introduce a simple way on describing tests in BDD manner. That's why writing tests is easy to start and easy to scale for big teams. I speak Ukrainian, English, and Russian. Don't hesitate to contact me if you want to learn more! I'm very open person.
 > 
@@ -38,7 +38,7 @@ I presented talks on various conferences in US and Europe
 
 ### 🤓 I am Developer 
 
-I work as a full stack developer for my company [Testomat.io](https://testomat.io). I ❤️ Rails, EmberJS, NodeJS, PHP. I have experience with Vue, React, Angular, Laravel, and other cool tools. I work on open-source projects which are trusted by small a big companies accross the globe. My favorite languages: JavaScript, Ruby, PHP (sorry, TypeScript, not yet).
+I work as a full stack developer for my company [Testomat.io](https://testomat.io). I ❤️ **Ruby on Rails**, **EmberJS**, **NodeJS**, **PHP**. I have experience with Vue, React, Angular, Laravel, and other cool tools. I work on open-source projects which are trusted by small a big companies accross the globe. My favorite languages: JavaScript, Ruby, PHP (sorry, TypeScript, not yet).
 
 ### ✅ My Thoughts on Testing
 
