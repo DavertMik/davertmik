@@ -54,6 +54,9 @@ Testing is essential part of product development. The more we can automate and t
 
 Btw, **[Testomatio is absolutely free]()** for small teams. [Sign up today](https://app.testomat.io)!
 
+---
+
+I also like kayaking, hiking and playing Heroes 3 with my son. That's in case you read that far!
 
 
 <h3 align="left">Connect with me:</h3>
