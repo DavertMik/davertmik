@@ -14,7 +14,7 @@
 - 📫 How to reach me **davert.ua@gmail.com**
 - 🎤 I speak at conferences and meetups on testing for developers:
 
-### 🎙️ Check out my best talks! 
+### 🎙️ Check out My Best Talks! 
 
 * 📺 [Design Decisions for Perfect JavaScript Testing Framework by Michael Bodnarchuk](https://www.youtube.com/watch?v=Z6JjCmV4UJg) - how to create e2e testing framework
 * 📺 [Michael Bodnarchuk: Constructing a Test Pyramid: Because Your Tests Needs Architecture Too
